@@ -1,0 +1,4 @@
+col1 INTEGER
+col2 STRING
+col3 STRING
+col4 INTEGER
