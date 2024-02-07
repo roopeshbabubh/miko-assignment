@@ -18,5 +18,5 @@ This document provides information on the API endpoints for the vert-x-app. The 
 ## Usage Instructions:
 
 1. **Execute a Program with Multiple Statements:**
-   - Send a POST request to the endpoint: `http://localhost:8080/api/aLang/executeProgram`
+   - Send a POST request to the endpoint: `http://localhost:8888/executeProgram`
    - Include a JSON body with the program containing multiple statements.
